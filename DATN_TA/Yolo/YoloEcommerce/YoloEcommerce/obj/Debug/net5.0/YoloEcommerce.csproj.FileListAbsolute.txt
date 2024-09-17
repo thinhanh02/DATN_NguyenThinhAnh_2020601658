@@ -1,0 +1,325 @@
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.AssemblyInfoInputs.cache
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.AssemblyInfo.cs
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.csproj.CoreCompileInputs.cache
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.MvcApplicationPartsAssemblyInfo.cs
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.MvcApplicationPartsAssemblyInfo.cache
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\appsettings.Development.json
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\appsettings.json
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.exe
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.deps.json
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.runtimeconfig.json
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.runtimeconfig.dev.json
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.pdb
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Humanizer.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.RazorTargetAssemblyInfo.cache
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\scopedcss\bundle\YoloEcommerce.styles.css
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\YoloEcommerce.StaticWebAssets.Manifest.cache
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\YoloEcommerce.StaticWebAssets.Pack.cache
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\msbuild.YoloEcommerce.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\msbuild.build.YoloEcommerce.props
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.YoloEcommerce.props
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.YoloEcommerce.props
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.csproj.CopyComplete
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\refint\YoloEcommerce.dll
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.pdb
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.genruntimeconfig.cache
+D:\DoAnTotNghiep\Project\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\ref\YoloEcommerce.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\appsettings.json
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.exe
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.deps.json
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.runtimeconfig.json
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.runtimeconfig.dev.json
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.pdb
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Humanizer.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.csproj.AssemblyReference.cache
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.AssemblyInfoInputs.cache
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.AssemblyInfo.cs
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.RazorTargetAssemblyInfo.cache
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\scopedcss\bundle\YoloEcommerce.styles.css
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\YoloEcommerce.StaticWebAssets.Manifest.cache
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\YoloEcommerce.StaticWebAssets.Pack.cache
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\msbuild.YoloEcommerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\msbuild.build.YoloEcommerce.props
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.YoloEcommerce.props
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.YoloEcommerce.props
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.csproj.CopyComplete
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\refint\YoloEcommerce.dll
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.pdb
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.genruntimeconfig.cache
+C:\Users\DuongNguyen\Máy tính\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\ref\YoloEcommerce.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\appsettings.Development.json
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\appsettings.json
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.exe
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.deps.json
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.runtimeconfig.json
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.runtimeconfig.dev.json
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.pdb
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Humanizer.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.csproj.AssemblyReference.cache
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.AssemblyInfoInputs.cache
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.AssemblyInfo.cs
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.csproj.CoreCompileInputs.cache
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.MvcApplicationPartsAssemblyInfo.cs
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.MvcApplicationPartsAssemblyInfo.cache
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\scopedcss\bundle\YoloEcommerce.styles.css
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\YoloEcommerce.StaticWebAssets.Manifest.cache
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\YoloEcommerce.StaticWebAssets.Pack.cache
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\msbuild.YoloEcommerce.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\msbuild.build.YoloEcommerce.props
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.YoloEcommerce.props
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.YoloEcommerce.props
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.RazorTargetAssemblyInfo.cache
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.csproj.CopyComplete
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\refint\YoloEcommerce.dll
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.pdb
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.genruntimeconfig.cache
+D:\DATN\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\ref\YoloEcommerce.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\appsettings.json
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.exe
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.deps.json
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.runtimeconfig.json
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.runtimeconfig.dev.json
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.pdb
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.csproj.AssemblyReference.cache
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.AssemblyInfoInputs.cache
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.AssemblyInfo.cs
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.RazorTargetAssemblyInfo.cache
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\scopedcss\bundle\YoloEcommerce.styles.css
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\YoloEcommerce.StaticWebAssets.Manifest.cache
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\YoloEcommerce.StaticWebAssets.Pack.cache
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\msbuild.YoloEcommerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\msbuild.build.YoloEcommerce.props
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.YoloEcommerce.props
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.YoloEcommerce.props
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcom.74AFAD8A.Up2Date
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\refint\YoloEcommerce.dll
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.pdb
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.genruntimeconfig.cache
+C:\Users\Mr.Duong\Documents\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\ref\YoloEcommerce.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\appsettings.Development.json
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\appsettings.json
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.exe
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.deps.json
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.runtimeconfig.json
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.runtimeconfig.dev.json
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\YoloEcommerce.pdb
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Humanizer.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.AssemblyInfoInputs.cache
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.AssemblyInfo.cs
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.csproj.CoreCompileInputs.cache
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.MvcApplicationPartsAssemblyInfo.cs
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.MvcApplicationPartsAssemblyInfo.cache
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\scopedcss\bundle\YoloEcommerce.styles.css
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\YoloEcommerce.StaticWebAssets.Manifest.cache
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\YoloEcommerce.StaticWebAssets.Pack.cache
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\msbuild.YoloEcommerce.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\msbuild.build.YoloEcommerce.props
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.YoloEcommerce.props
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.YoloEcommerce.props
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.RazorTargetAssemblyInfo.cache
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.csproj.CopyComplete
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\refint\YoloEcommerce.dll
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.pdb
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\YoloEcommerce.genruntimeconfig.cache
+D:\DoAnTotNghiep\DATN_TA\Yolo\YoloEcommerce\YoloEcommerce\obj\Debug\net5.0\ref\YoloEcommerce.dll

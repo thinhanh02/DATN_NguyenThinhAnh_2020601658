@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\YoloEcommerce",
+    "\\YoloEcommerce\\Controllers",
+    "\\YoloEcommerce\\Services",
+    "\\YoloEcommerce\\Services\\Order"
+  ],
+  "SelectedNode": "\\YoloEcommerce\\Services\\Order\\OrderServices.cs",
+  "PreviewInSolutionExplorer": false
+}
